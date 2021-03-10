@@ -64,7 +64,7 @@
     }
 }
 #projects li{
-    @include grid(2, 8%);
+    @include grid(4, 2%);
     img {
         width: 100%;
     }
